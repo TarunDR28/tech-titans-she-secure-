@@ -2,7 +2,7 @@
 
 ## Project Info
 
-**Live Preview:** https://shakti.app *(replace with your actual URL or leave “coming soon”)*  
+
 **Repository:** https://github.com/TechTitans/shakti-platform
 
 ---
